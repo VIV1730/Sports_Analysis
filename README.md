@@ -1,4 +1,4 @@
-# Sports-Analytics---Olympics
+# Sports_Analytics--Olympics
 
 ## Objectives
 The primary objective of this project is to leverage Olympic data to create a dynamic dashboard using Power BI, enabling stakeholders to explore trends, insights, and patterns related to the Olympic Games. This project incorporates data analysis and visualization to answer key questions about the history, participants, events, and outcomes of the Olympics.
